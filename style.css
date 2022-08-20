@@ -11,4 +11,10 @@ div{
     width: 100px; 
     height: 200px; 
     background : white;
+    margin: 0px 23px 0; 
+    padding-top: 400px; 
+}
+
+.hello{
+    url("img/coke.png"); 
 }
